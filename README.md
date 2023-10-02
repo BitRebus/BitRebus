@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-BitRebus/BitRebus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![BitRebus's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bitrebus&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![codewars](https://www.codewars.com/users/Bit%20Rebus/badges/large)](https://www.codewars.com/users/Bit%20Rebus)
+
