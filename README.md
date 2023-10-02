@@ -1,4 +1,4 @@
-https://github.com/BitRebus/BitRebus/blob/main/README.ru.md
+English | [Русский](https://github.com/BitRebus/BitRebus/blob/main/README.ru.md)
 
 - 👋 Hi, I’m @BitRebus
 - 👀 I’m interested in ...
