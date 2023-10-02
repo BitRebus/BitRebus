@@ -6,6 +6,6 @@
 - 💞️ Я хочу сотрудничать с ...
 - 📫 Как со мной связаться ...
 
-[![BitRebus's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bitrebus&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![BitRebus's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bitrebus&theme=dark)](https://github.com/bitrebus/leetcode-stats)
 
 [![codewars](https://www.codewars.com/users/Bit%20Rebus/badges/large)](https://www.codewars.com/users/Bit%20Rebus)
