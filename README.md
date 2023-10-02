@@ -1,4 +1,4 @@
-English | [Русский](README.ru.md)
+&#127468;&#127463; | [&#127479;&#127482;](README.ru.md)
 
 - 👋 Hi, I’m @BitRebus
 - 👀 I’m interested in ...
