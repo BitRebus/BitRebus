@@ -10,4 +10,4 @@
 
 [![codewars](https://www.codewars.com/users/Bit%20Rebus/badges/large)](https://www.codewars.com/users/Bit%20Rebus)
 
-<a href="https://stackoverflow.com/users/22851022/konstantin-makarov?theme=dark"><img src="https://stackoverflow.com/users/flair/22851022.png" width="208" height="58" alt="profile for Konstantin Makarov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Konstantin Makarov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/22851022/konstantin-makarov"><img src="https://stackoverflow.com/users/flair/22851022.png?theme=dark" width="208" height="58" alt="profile for Konstantin Makarov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Konstantin Makarov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
