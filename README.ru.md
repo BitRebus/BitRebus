@@ -2,7 +2,7 @@
 
 - 👋 Привет, я @BitRebus
 - 👀 Я интересуюсь: компиляторы и интерпретаторы
-- 🌱 Я изучаю сейчас: С++/C#/Java/Dart/Go/Rust, Algol/Pascal/Ada, Python, VB.NET, Fortran, Cobol, Prolog, Assembler
+- 🌱 Я изучаю сейчас: C/С++/C#/Java/Dart/Go/Rust, Algol/Pascal/Ada, Python, VB.NET, Fortran, Cobol, Prolog, Assembler
 - 📫 Как со мной связаться: bitrebus@gmail.com
 
 [![BitRebus's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bitrebus&theme=dark)](https://github.com/bitrebus/leetcode-stats)
