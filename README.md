@@ -1,8 +1,8 @@
 &#127468;&#127463; | [&#127479;&#127482;](README.ru.md)
 
 - 👋 Hi, I’m @BitRebus
-- 👀 I’m interested: compilers and interpreters
-- 🌱 I’m currently learning: C/С++/C#/Java/Dart/Go/Rust, Algol/Pascal/Ada, Python, VB.NET, Fortran, Cobol, Prolog, Assembler
+- 👀 I’m interested in all compilers and interpreters. I study different programming languages.
+- 🌱 I'm not comparing them in terms of which one is better and which one is worse. I'm trying to understand why they appeared.
 - 📫 How to reach me: bitrebus@gmail.com
 
 [![BitRebus's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bitrebus&theme=dark)](https://github.com/bitrebus/leetcode-stats)
