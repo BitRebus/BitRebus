@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @BitRebus
 - 👀 I’m interested in all compilers and interpreters. I study different programming languages.
-- 🌱 I'm not comparing them in terms of which one is better and which one is worse. I'm trying to understand why they appeared.
+- 🌱 I'm not comparing ones in terms of which one is better and which one is worse. I'm trying to understand why they appeared.
 - 📫 How to reach me: bitrebus@gmail.com
 
 [![BitRebus's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bitrebus&theme=dark)](https://github.com/bitrebus/leetcode-stats)
