@@ -5,7 +5,7 @@
 - 🌱 I'm not comparing ones in terms of which one is better and which one is worse. I'm trying to understand why they appeared.
 - 📫 How to reach me: bitrebus@gmail.com
 
-The chronology of my study of programming languages:
+The chronology of study of programming languages by me:
 ```
 ┬─ Basic M86
 ├─ Sinclair Basic
